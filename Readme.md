@@ -13,3 +13,5 @@ Cour: Systèmes Parallèles et Distribués
 
 ### Customer repository
 ![alt text](images/imag3.png)
+### Configure application.properties
+![alt text](images/img4.png)
