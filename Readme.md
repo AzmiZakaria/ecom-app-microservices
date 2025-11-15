@@ -47,3 +47,7 @@ Cour: Systèmes Parallèles et Distribués
 ![alt text](images/img32.png)
 #### application.yml
 ![alt text](images/img33.png)
+
+## Service Discovery:
+### Creation de service
+![alt text](images/img41.png)
