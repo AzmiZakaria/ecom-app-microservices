@@ -37,3 +37,8 @@ Cour: Systèmes Parallèles et Distribués
 ### Test Repository restresource
 ![alt text](images/img24.png)
 
+## Service GateWay:
+
+### Creation de service
+![alt text](images/img31.png)
+
