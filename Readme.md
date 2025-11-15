@@ -34,3 +34,6 @@ Cour: Systèmes Parallèles et Distribués
 ![alt text](images/img22.png)
 ### Configure application.properties
 ![alt text](images/img23.png)
+### Test Repository restresource
+![alt text](images/img24.png)
+
