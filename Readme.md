@@ -51,3 +51,12 @@ Cour: Systèmes Parallèles et Distribués
 ## Service Discovery:
 ### Creation de service
 ![alt text](images/img41.png)
+### Configuration
+#### appmication.propreties
+![alt text](images/img43.png)
+#### utilisation nom service dans gatway configue
+![alt text](images/img42.png)
+#### configuration dynamique
+![alt text](images/img44.png)
+#### Tester configuration 
+![alt text](images/img45.png)
