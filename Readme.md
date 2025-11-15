@@ -15,3 +15,5 @@ Cour: Systèmes Parallèles et Distribués
 ![alt text](images/imag3.png)
 ### Configure application.properties
 ![alt text](images/img4.png)
+### Test ajout des client dans DB
+![alt text](images/img5.png)
