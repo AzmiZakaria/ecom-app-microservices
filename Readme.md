@@ -17,3 +17,5 @@ Cour: Systèmes Parallèles et Distribués
 ![alt text](images/img4.png)
 ### Test ajout des client dans DB
 ![alt text](images/img5.png)
+### Test Repository restresource
+![alt text](images/img6.png)
