@@ -19,3 +19,7 @@ Cour: Systèmes Parallèles et Distribués
 ![alt text](images/img5.png)
 ### Test Repository restresource
 ![alt text](images/img6.png)
+### Customer email projection
+![alt text](images/img7.png)
+#### Test route
+![alt text](images/img8.png)
