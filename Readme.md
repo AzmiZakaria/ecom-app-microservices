@@ -42,3 +42,8 @@ Cour: Systèmes Parallèles et Distribués
 ### Creation de service
 ![alt text](images/img31.png)
 
+### configue gateway
+#### application.properties
+![alt text](images/img32.png)
+#### application.yml
+![alt text](images/img33.png)
