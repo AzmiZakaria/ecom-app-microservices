@@ -8,7 +8,7 @@ Cour: Systèmes Parallèles et Distribués
 ### Creation de service
 ![alt text](images/image.png)
 
-### Custumer entitie
+### Custumer entitiy
 ![alt text](images/img2.png)
 
 ### Customer repository
@@ -23,3 +23,14 @@ Cour: Systèmes Parallèles et Distribués
 ![alt text](images/img7.png)
 #### Test route
 ![alt text](images/img8.png)
+
+
+## Service Inventory:
+
+### Creation de service
+![alt text](images/img21.png)
+
+### Product entity
+![alt text](images/img22.png)
+### Configure application.properties
+![alt text](images/img23.png)
