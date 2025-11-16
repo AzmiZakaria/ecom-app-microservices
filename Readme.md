@@ -64,5 +64,7 @@ Cour: Systèmes Parallèles et Distribués
 ## Service billing
 ### Creartion des entites
 ![alt text](images/img51.png)
-### Injection des données
+### Injection des données dans BD
 ![alt text](images/img52.png)
+### Injection des données de Customer/Product dans Billing (Rest controller)
+![alt text](images/img53.png)
