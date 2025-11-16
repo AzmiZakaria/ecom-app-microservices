@@ -64,3 +64,5 @@ Cour: Systèmes Parallèles et Distribués
 ## Service billing
 ### Creartion des entites
 ![alt text](images/img51.png)
+### Injection des données
+![alt text](images/img52.png)
