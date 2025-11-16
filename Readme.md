@@ -60,3 +60,7 @@ Cour: Systèmes Parallèles et Distribués
 ![alt text](images/img44.png)
 #### Tester configuration 
 ![alt text](images/img45.png)
+
+## Service billing
+### Creartion des entites
+![alt text](images/img51.png)
